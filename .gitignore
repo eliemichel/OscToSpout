@@ -1,0 +1,5 @@
+/bin/*
+!/bin/data/
+/[Bb]uild/
+/[Oo]bj/
+/.vs/
